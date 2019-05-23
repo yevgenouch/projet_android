@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EhMerceee</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="alcool_prompt">Choisissez un alcool</string>
+
+    <string-array name="alcool" >
+        <item >VODKA</item>
+        <item >WHISKY</item>
+        <item >RHUM</item>
+        <item >GIN</item>
+    </string-array>
+</resources>
